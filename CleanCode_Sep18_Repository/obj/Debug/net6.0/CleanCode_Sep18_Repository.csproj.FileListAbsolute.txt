@@ -1,0 +1,12 @@
+C:\Users\knatua\source\repos\CleanCode_Sep18_Repository\bin\Debug\net6.0\CleanCode_Sep18_Repository.deps.json
+C:\Users\knatua\source\repos\CleanCode_Sep18_Repository\bin\Debug\net6.0\CleanCode_Sep18_Repository.dll
+C:\Users\knatua\source\repos\CleanCode_Sep18_Repository\bin\Debug\net6.0\CleanCode_Sep18_Repository.pdb
+C:\Users\knatua\source\repos\CleanCode_Sep18_Repository\obj\Debug\net6.0\CleanCode_Sep18_Repository.csproj.AssemblyReference.cache
+C:\Users\knatua\source\repos\CleanCode_Sep18_Repository\obj\Debug\net6.0\CleanCode_Sep18_Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\knatua\source\repos\CleanCode_Sep18_Repository\obj\Debug\net6.0\CleanCode_Sep18_Repository.AssemblyInfoInputs.cache
+C:\Users\knatua\source\repos\CleanCode_Sep18_Repository\obj\Debug\net6.0\CleanCode_Sep18_Repository.AssemblyInfo.cs
+C:\Users\knatua\source\repos\CleanCode_Sep18_Repository\obj\Debug\net6.0\CleanCode_Sep18_Repository.csproj.CoreCompileInputs.cache
+C:\Users\knatua\source\repos\CleanCode_Sep18_Repository\obj\Debug\net6.0\CleanCode_Sep18_Repository.dll
+C:\Users\knatua\source\repos\CleanCode_Sep18_Repository\obj\Debug\net6.0\refint\CleanCode_Sep18_Repository.dll
+C:\Users\knatua\source\repos\CleanCode_Sep18_Repository\obj\Debug\net6.0\CleanCode_Sep18_Repository.pdb
+C:\Users\knatua\source\repos\CleanCode_Sep18_Repository\obj\Debug\net6.0\ref\CleanCode_Sep18_Repository.dll

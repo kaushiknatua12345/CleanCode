@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CleanCode_Sept_UI/1.0.0": {
+        "dependencies": {
+          "CleanCode_Sep18_Repository": "1.0.0"
+        },
+        "runtime": {
+          "CleanCode_Sept_UI.dll": {}
+        }
+      },
+      "CleanCode_Sep18_Repository/1.0.0": {
+        "runtime": {
+          "CleanCode_Sep18_Repository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CleanCode_Sept_UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CleanCode_Sep18_Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
